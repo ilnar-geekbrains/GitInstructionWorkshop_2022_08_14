@@ -40,4 +40,6 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+[Сайт LearnGitBranching ](https://learngitbranching.js.org/?locale=ru_RU "ссылка на на изучение команд GIT online")
+
 ## Альтернативные системы контроля версий.
