@@ -40,10 +40,10 @@
 
 ## Книги и полезные ссылки по изучению git.
 
-игра по гит
-https://learngitbranching.js.org/?locale=ru_RU  
+игра по гит  
+https://learngitbranching.js.org/?locale=ru_RU    
 репозиторий с инструкциями по гит на русском языке  
-https://gist.github.com/rdnvndr/cb21a06c5a71fd71213aed1619380b8e
+https://gist.github.com/rdnvndr/cb21a06c5a71fd71213aed1619380b8e  
 официальная документация  
 https://git-scm.com/
 
