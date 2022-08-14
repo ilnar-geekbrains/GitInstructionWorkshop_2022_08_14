@@ -41,3 +41,4 @@
 ## Книги и полезные ссылки по изучению git.
 
 ## Альтернативные системы контроля версий.
+DVC, Delta Lake, Git LFS, Pachyderm, Dolt, LakeFS.
