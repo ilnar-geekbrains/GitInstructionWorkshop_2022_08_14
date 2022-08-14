@@ -53,6 +53,13 @@ __________________________
 
 ## Ветки. Локальная работа с ветками в git.
 
+**git branch branch_name** - *create branch*
+**git checkout -b branch_name** - *crete branch and swith to it*
+**git checkout branch_name** - *switch to branch_name*
+**git branch -d branch_name** - *delete merged branch_name*
+**git branch -D branch_name** - *delete branch_name force*
+**git log --graph** - *show with visualisation*
+
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
 ### Базовая работа с ветками в git.
