@@ -15,8 +15,8 @@
 #### Первая настройка git
 
 После первой установки Git на компьютер, необходимо указать автора коммитов через команды
-git config --global user.name (имя)
-git config --global user.email (адрес)
+git config --global user.name "имя"
+git config --global user.email "адрес"
 
 ## Создание и базовая работа с локальным репозиторием.
 
