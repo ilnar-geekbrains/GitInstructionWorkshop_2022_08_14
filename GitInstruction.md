@@ -41,3 +41,8 @@
 ## Книги и полезные ссылки по изучению git.
 
 ## Альтернативные системы контроля версий.
+* Mercurial
+* Bazaar
+* CVS
+* SVN
+* TFS (Team Foundation Server)
