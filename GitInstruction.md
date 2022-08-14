@@ -40,4 +40,6 @@
 
 ## Книги и полезные ссылки по изучению git.
 
+git@github.com:i-Kosenkov/GitInstructionWorkshop_2022_08_14.git
+
 ## Альтернативные системы контроля версий.
