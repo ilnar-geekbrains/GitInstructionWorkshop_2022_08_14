@@ -45,4 +45,6 @@
 6. На сайте GitHub нажимаем кнопку pull request
 ## Книги и полезные ссылки по изучению git.
 
+[Ссылка на игру-тренажер по функциям Git](https://learngitbranching.js.org/?locale=ru_RU "Learn Git Branching")
+
 ## Альтернативные системы контроля версий.
