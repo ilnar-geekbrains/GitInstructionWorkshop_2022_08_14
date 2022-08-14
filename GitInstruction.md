@@ -8,11 +8,20 @@
 
 ## Установка git и VSCode на ваш ПК.
 
+да
+
 ### Установка VSCode на ваш ПК.
+
+https://code.visualstudio.com/Download
 
 ### Установка git на ваш ПК
 
+https://git-scm.com
+
 #### Первая настройка git
+
+Во встроенном терминале VSCode печатаем:  git config --global user.name "xxxXXXxxx"
+                                          git config --global user.email xxxXXXxxx@example.com
 
 ## Создание и базовая работа с локальным репозиторием.
 
