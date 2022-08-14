@@ -7,6 +7,17 @@
 ### Для чего нужна система контроля версий
 
 ## Установка git и VSCode на ваш ПК.
+### Linux Ubuntu (git)
+
+```
+sudo apt install git #В терминале ОС
+```
+
+### Windows
+
+```
+https://git-scm.com/download/win #Cсылка на скачивание git на Windows (Выбрать в соответствии с разрядностью системы 32 или 64 bit)
+```
 
 ### Установка VSCode на ваш ПК.
 
