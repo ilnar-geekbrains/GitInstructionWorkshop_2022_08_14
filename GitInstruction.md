@@ -53,6 +53,15 @@ __________________________
 
 ## Ветки. Локальная работа с ветками в git.
 
+## Git branch commands
+
+* **git branch** - shows list of branches
+* **git branch branchname** - create a new branch "branchname"
+* **git branch -d xxxxx** - delete branch xxxxx
+* **git log --graph** - shows all commits in all branches
+* **git merge** - merges 2 branches (call from current branch)
+* **git merge --abort** - abort changes in current branch  
+
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
 ### Базовая работа с ветками в git.
